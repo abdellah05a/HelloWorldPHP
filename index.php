@@ -19,7 +19,7 @@
         <p>Welcome to my website! This is the home page.</p>
         <p>Here's an example of some PHP code:</p>
         <?php
-            $myName = "Tareq";
+            $myName = "Abdellah";
             $course = "DevOps";
             echo "Hello, my name is $myName!";
 			echo "Welcome in $course";
